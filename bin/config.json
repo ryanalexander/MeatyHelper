@@ -1,0 +1,13 @@
+{
+  "bot_title":"Meaty Helper",
+  "bot_desc":".help here",
+  "bot_favicon":"./bin/img/icon.png",
+  "bot_prefix":".",
+  "bot_token":"",
+  "bot_colour":"ffaa1b",
+  "bot_colour_error":"ff6b6b",
+
+  "apis":{
+    "youtube":""
+  }
+}
