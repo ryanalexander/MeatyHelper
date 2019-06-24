@@ -6,7 +6,7 @@ exports.getlevel = function(GuildMember,callback){
     var data = mysql.createConnection({
         host:'localhost',
         user:'root',
-        password:'Garcia#02',
+        password:'',
         database:'stelch',
         port:3306
     });
