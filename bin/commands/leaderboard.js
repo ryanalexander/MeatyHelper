@@ -10,7 +10,7 @@ module.exports = function(msg,GuildsConfigs,client){
     var data = mysql.createConnection({
         host:'35.224.90.219',
         user:'root',
-        password:'Garcia#02',
+        password:'',
         database:'stelch',
         port:3306
     });
